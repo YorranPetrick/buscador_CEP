@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Via Cep</string>
+    <string name="welcome">Welcome to Via Cep</string>
+    <string name="yours_state_is">Yours State Is</string>
+    <string name="cep">Yours Cep"</string>
+    <string name="DDD">DDD\n\n00"</string>
+    <string name="searching_cep">Searching Yours Cep"</string>
+</resources>
